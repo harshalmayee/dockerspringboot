@@ -8,6 +8,6 @@ public class HelloDockerController {
 
     @RequestMapping("/hellodocker")
     public String hellodocker(){
-        return "Hello Docker !!!";
+        return "Hello Docker Vesrion 2.0 !!!";
     }
 }
